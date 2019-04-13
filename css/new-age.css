@@ -470,3 +470,14 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
   text-align: left;
 
 }
+
+.lista{
+  position: relative;
+  width: 100%;
+  padding-top: 15s0px;
+  padding-bottom: 100px;
+  color: white;
+  background: url("../img/atp.jpg");
+  background-position: center;
+  background-size: cover;
+}
